@@ -1,0 +1,306 @@
+﻿X1,30,1,5 Yıl veya Daha Fazla
+X2,30,3,5 Yıl veya Daha Fazla
+X3,30,0,5 Yıl veya Daha Fazla
+X4,31,2,5 Yıl veya Daha Fazla
+X5,31,4,5 Yıl veya Daha Fazla
+X6,33,10,5 Yıl veya Daha Fazla
+X7,33,0,5 Yıl veya Daha Fazla
+X8,34,0,5 Yıldan Daha Az
+X9,34,9,5 Yıldan Daha Az
+X10,34,30,5 Yıl veya Daha Fazla
+X11,34,1,5 Yıl veya Daha Fazla
+X12,34,10,5 Yıl veya Daha Fazla
+X13,34,7,5 Yıl veya Daha Fazla
+X14,34,0,5 Yıl veya Daha Fazla
+X15,35,13,5 Yıl veya Daha Fazla
+X16,35,0,5 Yıl veya Daha Fazla
+X17,36,1,5 Yıl veya Daha Fazla
+X18,36,0,5 Yıl veya Daha Fazla
+X19,37,0,5 Yıl veya Daha Fazla
+X20,37,0,5 Yıl veya Daha Fazla
+X21,37,0,5 Yıl veya Daha Fazla
+X22,37,6,5 Yıl veya Daha Fazla
+X23,37,15,5 Yıl veya Daha Fazla
+X24,37,0,5 Yıl veya Daha Fazla
+X25,38,21,5 Yıldan Daha Az
+X26,38,2,5 Yıl veya Daha Fazla
+X27,38,0,5 Yıl veya Daha Fazla
+X28,38,0,5 Yıl veya Daha Fazla
+X29,38,3,5 Yıl veya Daha Fazla
+X30,38,1,5 Yıl veya Daha Fazla
+X31,38,0,5 Yıl veya Daha Fazla
+X32,38,11,5 Yıl veya Daha Fazla
+X33,38,1,5 Yıl veya Daha Fazla
+X34,38,5,5 Yıl veya Daha Fazla
+X35,39,0,5 Yıldan Daha Az
+X36,39,0,5 Yıl veya Daha Fazla
+X37,39,0,5 Yıl veya Daha Fazla
+X38,39,0,5 Yıl veya Daha Fazla
+X39,39,2,5 Yıl veya Daha Fazla
+X40,39,4,5 Yıl veya Daha Fazla
+X41,40,2,5 Yıl veya Daha Fazla
+X42,40,0,5 Yıl veya Daha Fazla
+X43,40,0,5 Yıl veya Daha Fazla
+X44,41,23,5 Yıldan Daha Az
+X45,41,0,5 Yıldan Daha Az
+X46,41,0,5 Yıldan Daha Az
+X47,41,0,5 Yıl veya Daha Fazla
+X48,41,8,5 Yıl veya Daha Fazla
+X49,41,0,5 Yıl veya Daha Fazla
+X50,41,0,5 Yıl veya Daha Fazla
+X51,41,8,5 Yıl veya Daha Fazla
+X52,41,0,5 Yıl veya Daha Fazla
+X53,41,0,5 Yıl veya Daha Fazla
+X54,42,1,5 Yıldan Daha Az
+X55,42,0,5 Yıldan Daha Az
+X56,42,0,5 Yıl veya Daha Fazla
+X57,42,1,5 Yıl veya Daha Fazla
+X58,42,2,5 Yıl veya Daha Fazla
+X59,42,4,5 Yıl veya Daha Fazla
+X60,42,20,5 Yıl veya Daha Fazla
+X61,42,0,5 Yıl veya Daha Fazla
+X62,42,1,5 Yıl veya Daha Fazla
+X63,43,52,5 Yıldan Daha Az
+X64,43,2,5 Yıldan Daha Az
+X65,43,0,5 Yıldan Daha Az
+X66,43,0,5 Yıldan Daha Az
+X67,43,14,5 Yıl veya Daha Fazla
+X68,43,2,5 Yıl veya Daha Fazla
+X69,43,3,5 Yıl veya Daha Fazla
+X70,43,0,5 Yıl veya Daha Fazla
+X71,43,2,5 Yıl veya Daha Fazla
+X72,43,0,5 Yıl veya Daha Fazla
+X73,43,4,5 Yıl veya Daha Fazla
+X74,44,6,5 Yıldan Daha Az
+X75,44,9,5 Yıldan Daha Az
+X76,44,19,5 Yıldan Daha Az
+X77,44,0,5 Yıl veya Daha Fazla
+X78,44,1,5 Yıl veya Daha Fazla
+X79,44,0,5 Yıl veya Daha Fazla
+X80,44,16,5 Yıl veya Daha Fazla
+X81,45,6,5 Yıldan Daha Az
+X82,45,0,5 Yıldan Daha Az
+X83,45,1,5 Yıldan Daha Az
+X84,45,0,5 Yıl veya Daha Fazla
+X85,45,0,5 Yıl veya Daha Fazla
+X86,45,14,5 Yıl veya Daha Fazla
+X87,45,0,5 Yıl veya Daha Fazla
+X88,45,0,5 Yıl veya Daha Fazla
+X89,45,1,5 Yıl veya Daha Fazla
+X90,46,2,5 Yıldan Daha Az
+X91,46,3,5 Yıldan Daha Az
+X92,46,5,5 Yıldan Daha Az
+X93,46,20,5 Yıldan Daha Az
+X94,46,0,5 Yıl veya Daha Fazla
+X95,46,3,5 Yıl veya Daha Fazla
+X96,46,0,5 Yıl veya Daha Fazla
+X97,47,23,5 Yıldan Daha Az
+X98,47,0,5 Yıldan Daha Az
+X99,47,0,5 Yıldan Daha Az
+X100,47,0,5 Yıl veya Daha Fazla
+X101,47,6,5 Yıl veya Daha Fazla
+X102,47,0,5 Yıl veya Daha Fazla
+X103,47,0,5 Yıl veya Daha Fazla
+X104,47,3,5 Yıl veya Daha Fazla
+X105,47,4,5 Yıl veya Daha Fazla
+X106,47,4,5 Yıl veya Daha Fazla
+X107,47,12,5 Yıl veya Daha Fazla
+X108,48,11,5 Yıldan Daha Az
+X109,48,11,5 Yıldan Daha Az
+X110,48,7,5 Yıldan Daha Az
+X111,48,8,5 Yıl veya Daha Fazla
+X112,48,2,5 Yıl veya Daha Fazla
+X113,48,0,5 Yıl veya Daha Fazla
+X114,48,0,5 Yıl veya Daha Fazla
+X115,49,0,5 Yıldan Daha Az
+X116,49,10,5 Yıldan Daha Az
+X117,49,1,5 Yıl veya Daha Fazla
+X118,49,0,5 Yıl veya Daha Fazla
+X119,49,0,5 Yıl veya Daha Fazla
+X120,49,1,5 Yıl veya Daha Fazla
+X121,49,1,5 Yıl veya Daha Fazla
+X122,49,3,5 Yıl veya Daha Fazla
+X123,49,0,5 Yıl veya Daha Fazla
+X124,49,1,5 Yıl veya Daha Fazla
+X125,50,13,5 Yıldan Daha Az
+X126,50,0,5 Yıldan Daha Az
+X127,50,0,5 Yıl veya Daha Fazla
+X128,50,6,5 Yıl veya Daha Fazla
+X129,50,0,5 Yıl veya Daha Fazla
+X130,50,1,5 Yıl veya Daha Fazla
+X131,50,1,5 Yıl veya Daha Fazla
+X132,50,2,5 Yıl veya Daha Fazla
+X133,50,0,5 Yıl veya Daha Fazla
+X134,50,0,5 Yıl veya Daha Fazla
+X135,50,4,5 Yıl veya Daha Fazla
+X136,50,1,5 Yıl veya Daha Fazla
+X137,51,13,5 Yıldan Daha Az
+X138,51,3,5 Yıldan Daha Az
+X139,51,7,5 Yıl veya Daha Fazla
+X140,51,1,5 Yıl veya Daha Fazla
+X141,51,0,5 Yıl veya Daha Fazla
+X142,51,1,5 Yıl veya Daha Fazla
+X143,52,3,5 Yıldan Daha Az
+X144,52,2,5 Yıldan Daha Az
+X145,52,3,5 Yıldan Daha Az
+X146,52,4,5 Yıldan Daha Az
+X147,52,0,5 Yıl veya Daha Fazla
+X148,52,4,5 Yıl veya Daha Fazla
+X149,52,0,5 Yıl veya Daha Fazla
+X150,52,4,5 Yıl veya Daha Fazla
+X151,52,5,5 Yıl veya Daha Fazla
+X152,52,0,5 Yıl veya Daha Fazla
+X153,52,1,5 Yıl veya Daha Fazla
+X154,52,0,5 Yıl veya Daha Fazla
+X155,52,0,5 Yıl veya Daha Fazla
+X156,52,0,5 Yıl veya Daha Fazla
+X157,53,4,5 Yıldan Daha Az
+X158,53,1,5 Yıldan Daha Az
+X159,53,3,5 Yıldan Daha Az
+X160,53,9,5 Yıldan Daha Az
+X161,53,24,5 Yıldan Daha Az
+X162,53,12,5 Yıldan Daha Az
+X163,53,1,5 Yıl veya Daha Fazla
+X164,53,1,5 Yıl veya Daha Fazla
+X165,53,2,5 Yıl veya Daha Fazla
+X166,53,1,5 Yıl veya Daha Fazla
+X167,53,0,5 Yıl veya Daha Fazla
+X168,54,11,5 Yıldan Daha Az
+X169,54,23,5 Yıldan Daha Az
+X170,54,5,5 Yıldan Daha Az
+X171,54,7,5 Yıldan Daha Az
+X172,54,7,5 Yıl veya Daha Fazla
+X173,54,3,5 Yıl veya Daha Fazla
+X174,54,0,5 Yıl veya Daha Fazla
+X175,54,46,5 Yıl veya Daha Fazla
+X176,54,0,5 Yıl veya Daha Fazla
+X177,54,7,5 Yıl veya Daha Fazla
+X178,54,19,5 Yıl veya Daha Fazla
+X179,54,1,5 Yıl veya Daha Fazla
+X180,54,0,5 Yıl veya Daha Fazla
+X181,55,6,5 Yıldan Daha Az
+X182,55,15,5 Yıldan Daha Az
+X183,55,1,5 Yıl veya Daha Fazla
+X184,55,0,5 Yıl veya Daha Fazla
+X185,55,1,5 Yıl veya Daha Fazla
+X186,55,18,5 Yıl veya Daha Fazla
+X187,55,0,5 Yıl veya Daha Fazla
+X188,55,3,5 Yıl veya Daha Fazla
+X189,55,22,5 Yıl veya Daha Fazla
+X190,55,1,5 Yıl veya Daha Fazla
+X191,56,9,5 Yıldan Daha Az
+X192,56,3,5 Yıldan Daha Az
+X193,56,0,5 Yıl veya Daha Fazla
+X194,56,2,5 Yıl veya Daha Fazla
+X195,56,1,5 Yıl veya Daha Fazla
+X196,56,0,5 Yıl veya Daha Fazla
+X197,56,0,5 Yıl veya Daha Fazla
+X198,57,5,5 Yıldan Daha Az
+X199,57,14,5 Yıldan Daha Az
+X200,57,1,5 Yıldan Daha Az
+X201,57,9,5 Yıl veya Daha Fazla
+X202,57,0,5 Yıl veya Daha Fazla
+X203,57,0,5 Yıl veya Daha Fazla
+X204,57,0,5 Yıl veya Daha Fazla
+X205,57,0,5 Yıl veya Daha Fazla
+X206,57,0,5 Yıl veya Daha Fazla
+X207,57,0,5 Yıl veya Daha Fazla
+X208,57,0,5 Yıl veya Daha Fazla
+X209,58,0,5 Yıl veya Daha Fazla
+X210,58,3,5 Yıl veya Daha Fazla
+X211,58,1,5 Yıl veya Daha Fazla
+X212,58,0,5 Yıl veya Daha Fazla
+X213,58,0,5 Yıl veya Daha Fazla
+X214,58,3,5 Yıl veya Daha Fazla
+X215,58,2,5 Yıl veya Daha Fazla
+X216,59,35,5 Yıldan Daha Az
+X217,59,0,5 Yıl veya Daha Fazla
+X218,59,0,5 Yıl veya Daha Fazla
+X219,59,1,5 Yıl veya Daha Fazla
+X220,59,4,5 Yıl veya Daha Fazla
+X221,59,0,5 Yıl veya Daha Fazla
+X222,59,7,5 Yıl veya Daha Fazla
+X223,59,3,5 Yıl veya Daha Fazla
+X224,60,17,5 Yıldan Daha Az
+X225,60,0,5 Yıldan Daha Az
+X226,60,1,5 Yıl veya Daha Fazla
+X227,60,2,5 Yıl veya Daha Fazla
+X228,60,25,5 Yıl veya Daha Fazla
+X229,60,0,5 Yıl veya Daha Fazla
+X230,61,5,5 Yıldan Daha Az
+X231,61,0,5 Yıldan Daha Az
+X232,61,1,5 Yıldan Daha Az
+X233,61,0,5 Yıl veya Daha Fazla
+X234,61,0,5 Yıl veya Daha Fazla
+X235,61,0,5 Yıl veya Daha Fazla
+X236,61,8,5 Yıl veya Daha Fazla
+X237,61,0,5 Yıl veya Daha Fazla
+X238,61,0,5 Yıl veya Daha Fazla
+X239,62,13,5 Yıldan Daha Az
+X240,62,0,5 Yıldan Daha Az
+X241,62,19,5 Yıldan Daha Az
+X242,62,6,5 Yıl veya Daha Fazla
+X243,62,0,5 Yıl veya Daha Fazla
+X244,62,0,5 Yıl veya Daha Fazla
+X245,62,0,5 Yıl veya Daha Fazla
+X246,63,1,5 Yıldan Daha Az
+X247,63,0,5 Yıl veya Daha Fazla
+X248,63,0,5 Yıl veya Daha Fazla
+X249,63,0,5 Yıl veya Daha Fazla
+X250,63,0,5 Yıl veya Daha Fazla
+X251,63,0,5 Yıl veya Daha Fazla
+X252,63,9,5 Yıl veya Daha Fazla
+X253,63,28,5 Yıl veya Daha Fazla
+X254,64,0,5 Yıl veya Daha Fazla
+X255,64,22,5 Yıl veya Daha Fazla
+X256,64,0,5 Yıl veya Daha Fazla
+X257,64,0,5 Yıl veya Daha Fazla
+X258,64,0,5 Yıl veya Daha Fazla
+X259,65,0,5 Yıldan Daha Az
+X260,65,2,5 Yıldan Daha Az
+X261,65,22,5 Yıldan Daha Az
+X262,65,15,5 Yıldan Daha Az
+X263,65,0,5 Yıl veya Daha Fazla
+X264,65,0,5 Yıl veya Daha Fazla
+X265,65,0,5 Yıl veya Daha Fazla
+X266,65,2,5 Yıl veya Daha Fazla
+X267,65,0,5 Yıl veya Daha Fazla
+X268,65,1,5 Yıl veya Daha Fazla
+X269,66,0,5 Yıldan Daha Az
+X270,66,13,5 Yıldan Daha Az
+X271,66,0,5 Yıl veya Daha Fazla
+X272,66,1,5 Yıl veya Daha Fazla
+X273,66,0,5 Yıl veya Daha Fazla
+X274,67,8,5 Yıldan Daha Az
+X275,67,1,5 Yıldan Daha Az
+X276,67,0,5 Yıl veya Daha Fazla
+X277,67,0,5 Yıl veya Daha Fazla
+X278,67,0,5 Yıl veya Daha Fazla
+X279,67,0,5 Yıl veya Daha Fazla
+X280,68,0,5 Yıl veya Daha Fazla
+X281,68,0,5 Yıl veya Daha Fazla
+X282,69,8,5 Yıldan Daha Az
+X283,69,0,5 Yıl veya Daha Fazla
+X284,69,0,5 Yıl veya Daha Fazla
+X285,69,0,5 Yıl veya Daha Fazla
+X286,70,0,5 Yıldan Daha Az
+X287,70,4,5 Yıldan Daha Az
+X288,70,14,5 Yıl veya Daha Fazla
+X289,70,0,5 Yıl veya Daha Fazla
+X290,70,0,5 Yıl veya Daha Fazla
+X291,70,8,5 Yıl veya Daha Fazla
+X292,70,0,5 Yıl veya Daha Fazla
+X293,71,2,5 Yıl veya Daha Fazla
+X294,72,0,5 Yıldan Daha Az
+X295,72,0,5 Yıl veya Daha Fazla
+X296,72,0,5 Yıl veya Daha Fazla
+X297,72,3,5 Yıl veya Daha Fazla
+X298,73,0,5 Yıl veya Daha Fazla
+X299,73,0,5 Yıl veya Daha Fazla
+X300,74,3,5 Yıldan Daha Az
+X301,74,0,5 Yıl veya Daha Fazla
+X302,75,1,5 Yıl veya Daha Fazla
+X303,76,0,5 Yıl veya Daha Fazla
+X304,77,3,5 Yıl veya Daha Fazla
+X305,78,1,5 Yıldan Daha Az
+X306,83,2,5 Yıldan Daha Az
